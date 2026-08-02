@@ -35,7 +35,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markzioio&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=markzioio&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
