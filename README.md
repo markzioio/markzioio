@@ -8,7 +8,7 @@
 
   <br />
 
-  <sub><code>01001101 01000001 01010010 01000011 01001111 01010011</code></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4200&pause=1200&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=22&lines=01001101+01000001+01010010+01000011+01001111+01010011" alt="MARCOS em código binário" />
 
   <br /><br />
 
@@ -25,57 +25,79 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-## `// IDENTIDADE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20IDENTIDADE&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=11&fontAlignY=50&animation=fadeIn" alt="Identidade" />
 
 **Marcos Luiz Martins** — estudante no início da formação em **Cibersegurança**, com direção definida para **Blue Team e Segurança Defensiva**.
 
 Este GitHub será meu **currículo vivo**: cada conhecimento apresentado aqui deverá possuir uma evidência — anotação, laboratório, análise ou projeto. A jornada começa do zero e será construída com transparência durante os próximos **2 a 3 anos**.
 
-`APRENDER` → `PRATICAR` → `DOCUMENTAR` → `EVOLUIR`
-
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
-
-## `// PROTOCOLO ATUAL`
-
-Primeiro ciclo: **30 dias de introdução ao Blue Team** para construir vocabulário técnico, rotina de estudos e as primeiras evidências públicas. Não é uma formação completa — é o início dela.
-
-<!-- PROGRESSO MANUAL: altere 0 na URL e o texto 0/30 quando concluir novos dias. -->
 <div align="center">
 
-  <strong><code>BLUE_TEAM_INIT // 0 DE 30 DIAS</code></strong>
-
-  <br /><br />
-
-  <img width="68%" src="https://geps.dev/progress/0" alt="Progresso do ciclo inicial: 0%" />
-
-  <br /><br />
-
-  <sub><code>BASE</code> ─── <code>DETECÇÃO</code> ─── <code>INVESTIGAÇÃO</code> ─── <code>DEFESA</code></sub>
+  <img src="https://img.shields.io/badge/01-APRENDER-00FF41?style=flat-square&labelColor=000000" alt="Aprender" />
+  <img src="https://img.shields.io/badge/02-PRATICAR-00FF41?style=flat-square&labelColor=000000" alt="Praticar" />
+  <img src="https://img.shields.io/badge/03-DOCUMENTAR-00FF41?style=flat-square&labelColor=000000" alt="Documentar" />
+  <img src="https://img.shields.io/badge/04-EVOLUIR-00FF41?style=flat-square&labelColor=000000" alt="Evoluir" />
 
 </div>
 
 <br />
 
-## `// ROTA DE APRENDIZAGEM`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-`01` **Fundamentos** — Segurança da Informação, Tríade CIA, NIST, Linux, Git, redes e TCP/IP.  
-`02` **Detecção** — logs, SIEM, Wireshark, IDS/IPS, CVEs, EDR e Threat Intelligence.  
-`03` **Investigação** — resposta a incidentes, forense, malware, Volatility, MITRE ATT&CK e Threat Hunting.  
-`04` **Defesa** — hardening, cloud, Zero Trust, phishing, ransomware, governança e SOC simulado.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20PROTOCOLO%2030_60_90&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=17&fontAlignY=50&animation=fadeIn" alt="Protocolo de 30, 60 e 90 dias" />
 
-<sub>Depois do ciclo inicial: aprofundamento, laboratórios, projetos defensivos, portfólio e preparação profissional.</sub>
+Os primeiros **90 dias** serão divididos em três marcos. Cada etapa desbloqueia uma camada nova: fundamentos, prática orientada e as primeiras evidências de portfólio.
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/CURRENT_STAGE-BOOT_SEQUENCE-00FF41?style=for-the-badge&labelColor=000000" alt="Etapa atual: início" />
+
+</div>
+
+<!-- ATUALIZAÇÃO MANUAL: mova a classe current para o marco atual e use future nos demais. -->
+```mermaid
+flowchart LR
+    D0{{"AGORA<br/>BOOT"}}:::current --> D30{{"30 DIAS<br/>FUNDAMENTOS"}}:::future
+    D30 --> D60{{"60 DIAS<br/>LABORATÓRIOS"}}:::future
+    D60 --> D90{{"90 DIAS<br/>PORTFÓLIO"}}:::future
+
+    classDef current fill:#00ff41,color:#000000,stroke:#00ff41,stroke-width:3px;
+    classDef future fill:#000000,color:#00ff41,stroke:#00ff41,stroke-width:2px;
+    linkStyle 0,1,2 stroke:#00ff41,stroke-width:2px;
+```
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/30_DIAS-CONSTRUIR_A_BASE-00FF41?style=flat-square&labelColor=000000" alt="30 dias: construir a base" />
+  <img src="https://img.shields.io/badge/60_DIAS-PRATICAR_EM_LABS-00FF41?style=flat-square&labelColor=000000" alt="60 dias: praticar em laboratórios" />
+  <img src="https://img.shields.io/badge/90_DIAS-PUBLICAR_EVID%C3%8ANCIAS-00FF41?style=flat-square&labelColor=000000" alt="90 dias: publicar evidências" />
+
+</div>
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20ROTA_DE_APRENDIZAGEM&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=18&fontAlignY=50&animation=fadeIn" alt="Rota de aprendizagem" />
+
+<img src="https://img.shields.io/badge/01-FUNDAMENTOS-00FF41?style=flat-square&labelColor=000000" alt="Fundamentos" /> Segurança da Informação, Tríade CIA, NIST, Linux, Git, redes e TCP/IP.  
+<img src="https://img.shields.io/badge/02-DETEC%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Detecção" /> Logs, SIEM, Wireshark, IDS/IPS, CVEs, EDR e Threat Intelligence.  
+<img src="https://img.shields.io/badge/03-INVESTIGA%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Investigação" /> Resposta a incidentes, forense, malware, Volatility, MITRE ATT&CK e Threat Hunting.  
+<img src="https://img.shields.io/badge/04-DEFESA-00FF41?style=flat-square&labelColor=000000" alt="Defesa" /> Hardening, cloud, Zero Trust, phishing, ransomware, governança e SOC simulado.
+
+**Próxima etapa:** aprofundamento, laboratórios, projetos defensivos, portfólio e preparação profissional.
 
 <br />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-## `// REPOSITÓRIOS & EVIDÊNCIAS`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20REPOSIT%C3%93RIOS_E_EVID%C3%8ANCIAS&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=24&fontAlignY=50&animation=fadeIn" alt="Repositórios e evidências" />
 
 Aqui entrarão somente trabalhos realmente estudados e produzidos: relatórios, análises de logs, capturas de tráfego, regras de detecção, playbooks e projetos defensivos.
 
-`[ AGUARDANDO O PRIMEIRO PROJETO PUBLICADO ]`
+<div align="center">
+
+  <img src="https://img.shields.io/badge/SLOT_01-AGUARDANDO_PRIMEIRO_DEPLOY-00FF41?style=for-the-badge&labelColor=000000" alt="Aguardando o primeiro projeto publicado" />
+
+</div>
 
 <!--
 TEMPLATE PARA REPOSITÓRIOS FUTUROS
@@ -95,11 +117,11 @@ Descrição curta e objetiva do projeto.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-## `// TELEMETRIA PÚBLICA`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20TELEMETRIA_P%C3%9ABLICA&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=17&fontAlignY=50&animation=fadeIn" alt="Telemetria pública" />
 
 <div align="center">
 
-  <sub>ATUALIZAÇÃO AUTOMÁTICA A PARTIR DAS CONTRIBUIÇÕES PÚBLICAS</sub>
+  <img src="https://img.shields.io/badge/SYSTEM_FEED-DADOS_P%C3%9ABLICOS_EM_TEMPO_REAL-00FF41?style=flat-square&labelColor=000000" alt="Dados públicos atualizados automaticamente" />
 
   <br /><br />
 
@@ -111,7 +133,7 @@ Descrição curta e objetiva do projeto.
 
 </div>
 
-<sub>Contribuições incluem atividades como commits, issues e pull requests. O conteúdo dos repositórios será a evidência real dos estudos.</sub>
+Contribuições incluem atividades como commits, issues e pull requests. O conteúdo dos repositórios será a evidência real dos estudos.
 
 <br />
 
@@ -125,7 +147,7 @@ Descrição curta e objetiva do projeto.
 
   <br /><br />
 
-  <code>DEFENSIVE MINDSET // VISIBLE PROGRESS // REAL EVIDENCE</code>
+  <img src="https://img.shields.io/badge/DEFENSIVE_MINDSET-VISIBLE_PROGRESS_%2F%2F_REAL_EVIDENCE-00FF41?style=flat-square&labelColor=000000" alt="Defensive mindset, visible progress, real evidence" />
 
 </div>
 
