@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=850&color=00D9A3&center=true&vCenter=true&repeat=true&width=780&height=45&lines=%3E+Construindo+fundamentos+em+Ciberseguran%C3%A7a;%3E+Aprendendo+Blue+Team+do+zero;%3E+Estudo.+Pr%C3%A1tica.+Evid%C3%AAncia." alt="Apresentação profissional animada" />
   </a>
 
-<br /><br />
+  <br /><br />
 
   <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00D9A3?style=flat-square&labelColor=081B2B" alt="Status: em formação" />
   <img src="https://img.shields.io/badge/FOCO-BLUE%20TEAM-00AEEF?style=flat-square&labelColor=081B2B" alt="Foco: Blue Team" />
@@ -24,9 +24,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=01%20%2F%2F%20PERFIL&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=10&fontAlignY=50&animation=fadeIn" alt="Perfil" />
 
-Sou Marcos Luiz Martins, estudante no início da formação em Cibersegurança, direcionando minha carreira para Blue Team e Segurança Defensiva.
+Sou **Marcos Luiz Martins**, estudante no início da formação em **Cibersegurança**, direcionando minha carreira para **Blue Team e Segurança Defensiva**.
 
-Este perfil funciona como um registro público da minha formação. Os conteúdos serão adicionados conforme eu estudar, praticar e conseguir explicar cada assunto com minhas próprias palavras.
+Este perfil funciona como um **registro público da minha formação**. Os conteúdos serão adicionados conforme eu estudar, praticar e conseguir explicar cada assunto com minhas próprias palavras.
 
 Minha construção será gradual, transparente e baseada em evidências. Tecnologias só serão apresentadas como conhecimento adquirido depois de estudadas e praticadas.
 
@@ -55,17 +55,17 @@ O objetivo é avançar sem pressa artificial: primeiro compreender, depois prati
 
 </div>
 
-<!-- ATUALIZAÇÃO MANUAL: mova a classe active para a etapa atual e use next nas demais. -->
+<div align="center">
 
-flowchart LR
-    START["AGORA<br/>INÍCIO"]:::active --> F1["ETAPA 01<br/>FUNDAMENTOS"]:::next
-    F1 --> F2["ETAPA 02<br/>SISTEMAS E REDES"]:::next
-    F2 --> F3["ETAPA 03<br/>DEFESA"]:::next
-    F3 --> F4["ETAPA 04<br/>PORTFÓLIO"]:::next
+  <img src="https://img.shields.io/badge/ETAPA_01-FUNDAMENTOS-00D9A3?style=for-the-badge&labelColor=081B2B" alt="Etapa 1: fundamentos" />
+  <img src="https://img.shields.io/badge/ETAPA_02-SISTEMAS_%26_REDES-00AEEF?style=for-the-badge&labelColor=081B2B" alt="Etapa 2: sistemas e redes" />
 
-    classDef active fill:#00d9a3,color:#050816,stroke:#00d9a3,stroke-width:3px;
-    classDef next fill:#081b2b,color:#e6fff7,stroke:#00aeef,stroke-width:2px;
-    linkStyle 0,1,2,3 stroke:#00d9a3,stroke-width:2px;
+  <br /><br />
+
+  <img src="https://img.shields.io/badge/ETAPA_03-DEFESA-7C6FF7?style=for-the-badge&labelColor=081B2B" alt="Etapa 3: defesa" />
+  <img src="https://img.shields.io/badge/ETAPA_04-PORTF%C3%93LIO-00D9A3?style=for-the-badge&labelColor=081B2B" alt="Etapa 4: portfólio" />
+
+</div>
 
 <br />
 
@@ -83,7 +83,7 @@ Análise de tráfego e logs, eventos de segurança, introdução a SIEM, alertas
 <img src="https://img.shields.io/badge/ETAPA_04-PR%C3%81TICA_%26_PORTF%C3%93LIO-00D9A3?style=flat-square&labelColor=081B2B" alt="Etapa 4: prática e portfólio" />  
 Laboratórios guiados, relatórios técnicos, projetos defensivos e preparação gradual para oportunidades iniciais em TI e SOC.
 
-Estado do aprendizado
+### Estado do aprendizado
 
 <div align="center">
 
@@ -99,15 +99,12 @@ Estado do aprendizado
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=04%20%2F%2F%20PORTF%C3%93LIO%20EM%20CONSTRU%C3%87%C3%83O&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=25&fontAlignY=50&animation=fadeIn" alt="Portfólio em construção" />
 
-Os repositórios deste perfil serão publicados somente depois que cada estudo ou laboratório for realizado e compreendido. Cada projeto deverá apresentar contexto, objetivo, procedimento, resultado e aprendizado.
+Os repositórios deste perfil serão publicados somente depois que cada estudo ou laboratório for realizado e compreendido. Cada projeto deverá apresentar **contexto, objetivo, procedimento, resultado e aprendizado**.
 
-Explicações escritas com minhas próprias palavras.
-
-Evidências da prática e dos resultados observados.
-
-Registro de erros, dificuldades e aprendizados.
-
-Referências das fontes utilizadas no estudo.
+- Explicações escritas com minhas próprias palavras.
+- Evidências da prática e dos resultados observados.
+- Registro de erros, dificuldades e aprendizados.
+- Referências das fontes utilizadas no estudo.
 
 <div align="center">
 
@@ -136,7 +133,7 @@ STATUS: CONCLUÍDO | ÁREA: BLUE TEAM | EVIDÊNCIA: RELATÓRIO/LAB/PROJETO
 
   <img src="https://img.shields.io/badge/LIVE_DATA-CONTRIBUI%C3%87%C3%95ES_P%C3%9ABLICAS-00AEEF?style=flat-square&labelColor=081B2B" alt="Contribuições públicas atualizadas automaticamente" />
 
-<br /><br />
+  <br /><br />
 
   <img width="68%" src="https://streak-stats.demolab.com?user=markzioio&locale=pt_BR&mode=daily&background=050816&border=00D9A3&stroke=16344A&ring=00D9A3&fire=00AEEF&currStreakNum=E6FFF7&sideNums=E6FFF7&currStreakLabel=00D9A3&sideLabels=7A91A8&dates=52697A&hide_border=true&border_radius=5" alt="Total de contribuições e sequências" />
 
@@ -158,7 +155,7 @@ As métricas mostram contribuições públicas do GitHub. A validação do apren
     <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Luiz%20Martins-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=081B2B" alt="Conectar com Marcos Luiz Martins no LinkedIn" />
   </a>
 
-<br /><br />
+  <br /><br />
 
   <img src="https://img.shields.io/badge/PROCESSO-APRENDIZADO-00D9A3?style=flat-square&labelColor=081B2B" alt="Processo e aprendizado" />
   <img src="https://img.shields.io/badge/PRINC%C3%8DPIO-EVID%C3%8ANCIA-7C6FF7?style=flat-square&labelColor=081B2B" alt="Princípio e evidência" />
