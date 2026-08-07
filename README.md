@@ -1,43 +1,69 @@
-# 👋 Olá, eu sou o markzioio!
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Aspirante+a+Cybersecurity;Entusiasta+Linux;Focado+em+Red+Team+%26+Python;Construindo+o+futuro+byte+a+byte" alt="Typing SVG" />
-</p>
+  <!-- Banner com Typiing GIF Animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=500&lines=Blue+Team+%26+SOC+Analyst;Initializing+Defensive+Protocol...;Threat+Hunting+%26+Log+Analysis;100%25+Active+Defense" alt="Typing SVG" />
+  </a>
+
+  <h3>🛡️ Welcome to my Cyber Defense HQ | <code>markzioio</code></h3>
+
+  <p>
+    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20SOC-blue?style=for-the-badge&logo=shield" /></a>
+    <a href="https://linux.org"><img src="https://img.shields.io/badge/OS-Linux%20%26%20Bash-orange?style=for-the-badge&logo=linux" /></a>
+    <a href="https://python.org"><img src="https://img.shields.io/badge/Code-Python%20for%20Sec-yellow?style=for-the-badge&logo=python" /></a>
+  </p>
+
+</div>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-- 🔭 Atualmente estudando **Cybersegurança, Redes e Linux**
-- 🐧 Usuário e fã de **Linux**
-- 🐍 Praticando automação e ferramentas com **Python & Bash**
-- 🎯 Focado em passar nos desafios do **TryHackMe** e **OverTheWire**
-- ⚡ Curiosidade: *"A jornada de mil bytes começa com um único comando."*
+> *"A melhor defesa é a análise precisa e a resposta rápida."*
+
+- 🔷 **Pivot to Blue Team:** Transicionando o foco de Red Team para **Segurança Defensiva, Análise de SOC e Resposta a Incidentes**.
+- 🧪 **Current Challenge:** Executando o desafio **Blue Team 30 Days** (Splunk, Wireshark, Volatility, Hardening e Threat Hunting).
+- 🐧 **Systems & Tools:** Amante de **Linux, Shell Scripting e Automações com Python**.
+- 🎯 **Goals:** Dominar análise de logs/SIEM, subir nos rankings do **TryHackMe / LetsDefend** e tirar minhas primeiras certificações de defesa.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack & Blue Team Arsenal
 
 <p align="left">
-  <!-- Linux & Sistema -->
+  <!-- Defensive Tools -->
+  <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white" />
   <br>
-  <!-- Ferramentas de Cyber & Redes -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <!-- Frameworks & Concepts -->
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST%20Framework-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SIEM%20%26%20Logs-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DFIR-8B0000?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=markzioio&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markzioio&theme=tokyonight&hide_border=true" />
-</p>
+  <!-- Snake Game: Animação dos seus Commits -->
+  <img src="https://raw.githubusercontent.com/markzioio/markzioio/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+  <br><br>
+
+  <!-- GitHub Stats & Streak Cards com tema dark/cyberpunk -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=markzioio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=markzioio&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Feito por Marcos Luiz (markzioio) • Focado em Defesa Ativa e Monitoramento 🛡️</sub>
+</div>
