@@ -1,154 +1,168 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,50:001A00,100:000000&text=MARCOS%20LUIZ%20MARTINS&fontColor=00FF41&fontSize=39&fontFamily=Orbitron&fontAlignY=42&stroke=00FF41&strokeWidth=1&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM&descAlignY=65&descSize=16&animation=blinking" alt="Marcos Luiz Martins - Cybersecurity e Blue Team" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=205&color=0:050816,35:081B2B,70:063C3A,100:050816&text=MARCOS%20LUIZ%20MARTINS&fontColor=E6FFF7&fontSize=39&fontFamily=Orbitron&fontAlignY=42&stroke=00D9A3&strokeWidth=1&desc=CYBERSECURITY%20STUDENT%20%2F%2F%20BLUE%20TEAM%20JOURNEY&descAlignY=64&descSize=16&animation=fadeIn" alt="Marcos Luiz Martins - Cybersecurity Student e Blue Team" />
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%3E+Inicializando+forma%C3%A7%C3%A3o+defensiva...;%3E+Construindo+fundamentos+de+Blue+Team...;%3E+Aprender.+Praticar.+Documentar.+Evoluir." alt="Terminal animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=850&color=00D9A3&center=true&vCenter=true&repeat=true&width=780&height=45&lines=%3E+Construindo+fundamentos+em+Ciberseguran%C3%A7a;%3E+Aprendendo+Blue+Team+do+zero;%3E+Estudo.+Pr%C3%A1tica.+Evid%C3%AAncia." alt="Apresentação profissional animada" />
   </a>
-
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4200&pause=1200&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=22&lines=01001101+01000001+01010010+01000011+01001111+01010011" alt="MARCOS em código binário" />
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Em formação" />
-  <img src="https://img.shields.io/badge/FOCO-BLUE%20TEAM-00FF41?style=flat-square&labelColor=000000" alt="Foco em Blue Team" />
+  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00D9A3?style=flat-square&labelColor=081B2B" alt="Status: em formação" />
+  <img src="https://img.shields.io/badge/FOCO-BLUE%20TEAM-00AEEF?style=flat-square&labelColor=081B2B" alt="Foco: Blue Team" />
+  <img src="https://img.shields.io/badge/BASE-BRASIL-7C6FF7?style=flat-square&labelColor=081B2B" alt="Brasil" />
   <a href="https://www.linkedin.com/in/marcos-martins-493a63257">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=081B2B" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=markzioio&label=ACESSOS&color=00FF41&style=flat-square&labelColor=000000" alt="Acessos ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=markzioio&label=VISITAS&color=00D9A3&style=flat-square&labelColor=081B2B" alt="Visitas ao perfil" />
 
 </div>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:050816,35:00AEEF,65:00D9A3,100:050816" alt="Divisor tecnológico" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20IDENTIDADE&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=11&fontAlignY=50&animation=fadeIn" alt="Identidade" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=01%20%2F%2F%20PERFIL&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=10&fontAlignY=50&animation=fadeIn" alt="Perfil" />
 
-**Marcos Luiz Martins** — estudante no início da formação em **Cibersegurança**, com direção definida para **Blue Team e Segurança Defensiva**.
+Sou **Marcos Luiz Martins**, estudante no início da formação em **Cibersegurança**, direcionando minha carreira para **Blue Team e Segurança Defensiva**.
 
-Este GitHub será meu **currículo vivo**: cada conhecimento apresentado aqui deverá possuir uma evidência — anotação, laboratório, análise ou projeto. A jornada começa do zero e será construída com transparência durante os próximos **2 a 3 anos**.
+Este perfil funciona como um **currículo vivo**: um registro público da minha evolução, criado para mostrar não apenas o que estou estudando, mas também como aplico cada conhecimento em anotações, laboratórios, análises e projetos.
+
+Minha construção será gradual, transparente e baseada em evidências. Tecnologias só serão apresentadas como conhecimento adquirido depois de estudadas e praticadas.
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/01-APRENDER-00FF41?style=flat-square&labelColor=000000" alt="Aprender" />
-  <img src="https://img.shields.io/badge/02-PRATICAR-00FF41?style=flat-square&labelColor=000000" alt="Praticar" />
-  <img src="https://img.shields.io/badge/03-DOCUMENTAR-00FF41?style=flat-square&labelColor=000000" alt="Documentar" />
-  <img src="https://img.shields.io/badge/04-EVOLUIR-00FF41?style=flat-square&labelColor=000000" alt="Evoluir" />
+  <img src="https://img.shields.io/badge/PRINC%C3%8DPIO-APRENDER-00D9A3?style=flat-square&labelColor=081B2B" alt="Aprender" />
+  <img src="https://img.shields.io/badge/PROCESSO-PRATICAR-00AEEF?style=flat-square&labelColor=081B2B" alt="Praticar" />
+  <img src="https://img.shields.io/badge/EVID%C3%8ANCIA-DOCUMENTAR-7C6FF7?style=flat-square&labelColor=081B2B" alt="Documentar" />
+  <img src="https://img.shields.io/badge/RESULTADO-EVOLUIR-00D9A3?style=flat-square&labelColor=081B2B" alt="Evoluir" />
 
 </div>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:050816,35:00AEEF,65:00D9A3,100:050816" alt="Divisor tecnológico" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20PROTOCOLO%2030_60_90&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=17&fontAlignY=50&animation=fadeIn" alt="Protocolo de 30, 60 e 90 dias" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=02%20%2F%2F%20BLUE%20TEAM%2030%20DAYS&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=20&fontAlignY=50&animation=fadeIn" alt="Blue Team 30 Days" />
 
-Os primeiros **90 dias** serão divididos em três marcos. Cada etapa desbloqueia uma camada nova: fundamentos, prática orientada e as primeiras evidências de portfólio.
+O primeiro passo será um ciclo introdutório de **30 dias**, organizado em quatro semanas. O objetivo não é dominar a área em um mês, mas construir vocabulário técnico, disciplina de estudo e as primeiras evidências para o portfólio.
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/CURRENT_STAGE-BOOT_SEQUENCE-00FF41?style=for-the-badge&labelColor=000000" alt="Etapa atual: início" />
+  <img src="https://img.shields.io/badge/PROGRESSO-0%20%2F%2030%20DIAS-00D9A3?style=for-the-badge&labelColor=081B2B" alt="Progresso: 0 de 30 dias" />
 
 </div>
 
-<!-- ATUALIZAÇÃO MANUAL: mova a classe current para o marco atual e use future nos demais. -->
+<!-- ATUALIZAÇÃO MANUAL: mova a classe active para a semana atual e use next nas demais. -->
 ```mermaid
 flowchart LR
-    D0{{"AGORA<br/>BOOT"}}:::current --> D30{{"30 DIAS<br/>FUNDAMENTOS"}}:::future
-    D30 --> D60{{"60 DIAS<br/>LABORATÓRIOS"}}:::future
-    D60 --> D90{{"90 DIAS<br/>PORTFÓLIO"}}:::future
+    START["INÍCIO<br/>0 DIAS"]:::active --> W1["SEMANA 01<br/>BASE"]:::next
+    W1 --> W2["SEMANA 02<br/>DETECÇÃO"]:::next
+    W2 --> W3["SEMANA 03<br/>INVESTIGAÇÃO"]:::next
+    W3 --> W4["SEMANA 04<br/>OPERAÇÕES"]:::next
 
-    classDef current fill:#00ff41,color:#000000,stroke:#00ff41,stroke-width:3px;
-    classDef future fill:#000000,color:#00ff41,stroke:#00ff41,stroke-width:2px;
-    linkStyle 0,1,2 stroke:#00ff41,stroke-width:2px;
+    classDef active fill:#00d9a3,color:#050816,stroke:#00d9a3,stroke-width:3px;
+    classDef next fill:#081b2b,color:#e6fff7,stroke:#00aeef,stroke-width:2px;
+    linkStyle 0,1,2,3 stroke:#00d9a3,stroke-width:2px;
 ```
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=03%20%2F%2F%20PLANO%20T%C3%89CNICO&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=15&fontAlignY=50&animation=fadeIn" alt="Plano técnico" />
+
+<img src="https://img.shields.io/badge/SEMANA_01-FUNDAMENTOS-00D9A3?style=flat-square&labelColor=081B2B" alt="Semana 1: fundamentos" />  
+Segurança da Informação, Blue Team, Tríade CIA, NIST, Linux, redes TCP/IP, introdução a SIEM e análise de logs.
+
+<img src="https://img.shields.io/badge/SEMANA_02-MONITORAMENTO_%26_DETEC%C3%87%C3%83O-00AEEF?style=flat-square&labelColor=081B2B" alt="Semana 2: monitoramento e detecção" />  
+Wireshark, IDS/IPS, Snort, Threat Intelligence, vulnerabilidades, CVEs, análise básica de malware e EDR.
+
+<img src="https://img.shields.io/badge/SEMANA_03-INVESTIGA%C3%87%C3%83O_%26_RESPOSTA-7C6FF7?style=flat-square&labelColor=081B2B" alt="Semana 3: investigação e resposta" />  
+Resposta a incidentes, forense digital, Volatility, Threat Hunting, MITRE ATT&CK, playbooks e simulação de incidente.
+
+<img src="https://img.shields.io/badge/SEMANA_04-HARDENING_%26_OPERA%C3%87%C3%95ES-00D9A3?style=flat-square&labelColor=081B2B" alt="Semana 4: hardening e operações" />  
+Hardening de Linux e redes, segurança em nuvem, Zero Trust, phishing, ransomware, governança e projeto final de SOC simulado.
+
+### Conteúdos e ferramentas no plano
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/30_DIAS-CONSTRUIR_A_BASE-00FF41?style=flat-square&labelColor=000000" alt="30 dias: construir a base" />
-  <img src="https://img.shields.io/badge/60_DIAS-PRATICAR_EM_LABS-00FF41?style=flat-square&labelColor=000000" alt="60 dias: praticar em laboratórios" />
-  <img src="https://img.shields.io/badge/90_DIAS-PUBLICAR_EVID%C3%8ANCIAS-00FF41?style=flat-square&labelColor=000000" alt="90 dias: publicar evidências" />
+  <img src="https://img.shields.io/badge/Linux-PLANEJADO-00D9A3?style=flat-square&logo=linux&logoColor=white&labelColor=081B2B" alt="Linux planejado" />
+  <img src="https://img.shields.io/badge/Redes%20TCP%2FIP-PLANEJADO-00AEEF?style=flat-square&labelColor=081B2B" alt="Redes TCP/IP planejado" />
+  <img src="https://img.shields.io/badge/Wireshark-PLANEJADO-00AEEF?style=flat-square&logo=wireshark&logoColor=white&labelColor=081B2B" alt="Wireshark planejado" />
+  <img src="https://img.shields.io/badge/SIEM-PLANEJADO-7C6FF7?style=flat-square&labelColor=081B2B" alt="SIEM planejado" />
+  <img src="https://img.shields.io/badge/Snort-PLANEJADO-00D9A3?style=flat-square&labelColor=081B2B" alt="Snort planejado" />
+  <img src="https://img.shields.io/badge/Volatility-PLANEJADO-7C6FF7?style=flat-square&labelColor=081B2B" alt="Volatility planejado" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-PLANEJADO-00AEEF?style=flat-square&labelColor=081B2B" alt="MITRE ATT&CK planejado" />
 
 </div>
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20ROTA_DE_APRENDIZAGEM&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=18&fontAlignY=50&animation=fadeIn" alt="Rota de aprendizagem" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:050816,35:00AEEF,65:00D9A3,100:050816" alt="Divisor tecnológico" />
 
-<img src="https://img.shields.io/badge/01-FUNDAMENTOS-00FF41?style=flat-square&labelColor=000000" alt="Fundamentos" /> Segurança da Informação, Tríade CIA, NIST, Linux, Git, redes e TCP/IP.  
-<img src="https://img.shields.io/badge/02-DETEC%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Detecção" /> Logs, SIEM, Wireshark, IDS/IPS, CVEs, EDR e Threat Intelligence.  
-<img src="https://img.shields.io/badge/03-INVESTIGA%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Investigação" /> Resposta a incidentes, forense, malware, Volatility, MITRE ATT&CK e Threat Hunting.  
-<img src="https://img.shields.io/badge/04-DEFESA-00FF41?style=flat-square&labelColor=000000" alt="Defesa" /> Hardening, cloud, Zero Trust, phishing, ransomware, governança e SOC simulado.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=04%20%2F%2F%20PORTF%C3%93LIO%20EM%20CONSTRU%C3%87%C3%83O&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=25&fontAlignY=50&animation=fadeIn" alt="Portfólio em construção" />
 
-**Próxima etapa:** aprofundamento, laboratórios, projetos defensivos, portfólio e preparação profissional.
+Os repositórios deste perfil serão organizados como evidências profissionais. Cada projeto deverá apresentar **contexto, objetivo, procedimento, resultado e aprendizado**.
 
-<br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20REPOSIT%C3%93RIOS_E_EVID%C3%8ANCIAS&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=24&fontAlignY=50&animation=fadeIn" alt="Repositórios e evidências" />
-
-Aqui entrarão somente trabalhos realmente estudados e produzidos: relatórios, análises de logs, capturas de tráfego, regras de detecção, playbooks e projetos defensivos.
+- Anotações técnicas com linguagem própria e referências.
+- Relatórios de laboratórios, tráfego, logs e incidentes simulados.
+- Regras de detecção, playbooks e configurações criadas durante os estudos.
+- Scripts de apoio e projetos defensivos desenvolvidos conforme a evolução.
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/SLOT_01-AGUARDANDO_PRIMEIRO_DEPLOY-00FF41?style=for-the-badge&labelColor=000000" alt="Aguardando o primeiro projeto publicado" />
+  <img src="https://img.shields.io/badge/PRIMEIRO_REPOSIT%C3%93RIO-BLUE_TEAM_30_DAYS-00D9A3?style=for-the-badge&labelColor=081B2B" alt="Primeiro repositório: Blue Team 30 Days" />
+  <br />
+  <img src="https://img.shields.io/badge/STATUS-PLANEJADO-7C6FF7?style=flat-square&labelColor=081B2B" alt="Status planejado" />
 
 </div>
 
 <!--
-TEMPLATE PARA REPOSITÓRIOS FUTUROS
+TEMPLATE PARA PROJETOS FUTUROS
 
-### [`NOME DO PROJETO`](https://github.com/markzioio/NOME-DO-REPOSITORIO)
-Descrição curta: problema, prática realizada e resultado obtido.
+### [Nome do projeto](https://github.com/markzioio/NOME-DO-REPOSITORIO)
+Descrição curta do problema, da prática realizada e do resultado alcançado.
 
-`STATUS: CONCLUÍDO` · `ÁREA: BLUE TEAM` · `EVIDÊNCIA: RELATÓRIO/LAB/PROJETO`
-
----
-
-### [`SEGUNDO PROJETO`](https://github.com/markzioio/SEGUNDO-REPOSITORIO)
-Descrição curta e objetiva do projeto.
+STATUS: CONCLUÍDO | ÁREA: BLUE TEAM | EVIDÊNCIA: RELATÓRIO/LAB/PROJETO
 -->
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:050816,35:00AEEF,65:00D9A3,100:050816" alt="Divisor tecnológico" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=52&text=%3E_%20TELEMETRIA_P%C3%9ABLICA&fontColor=00FF41&fontSize=26&fontFamily=Share%20Tech%20Mono&fontAlign=17&fontAlignY=50&animation=fadeIn" alt="Telemetria pública" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=05%20%2F%2F%20ATIVIDADE%20P%C3%9ABLICA&fontColor=00D9A3&fontSize=25&fontFamily=JetBrains%20Mono&fontAlign=17&fontAlignY=50&animation=fadeIn" alt="Atividade pública" />
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/SYSTEM_FEED-DADOS_P%C3%9ABLICOS_EM_TEMPO_REAL-00FF41?style=flat-square&labelColor=000000" alt="Dados públicos atualizados automaticamente" />
+  <img src="https://img.shields.io/badge/LIVE_DATA-CONTRIBUI%C3%87%C3%95ES_P%C3%9ABLICAS-00AEEF?style=flat-square&labelColor=081B2B" alt="Contribuições públicas atualizadas automaticamente" />
 
   <br /><br />
 
-  <img width="68%" src="https://streak-stats.demolab.com?user=markzioio&locale=pt_BR&mode=daily&background=000000&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=70A070&dates=417941&hide_border=true&border_radius=0" alt="Total de contribuições e sequências" />
+  <img width="68%" src="https://streak-stats.demolab.com?user=markzioio&locale=pt_BR&mode=daily&background=050816&border=00D9A3&stroke=16344A&ring=00D9A3&fire=00AEEF&currStreakNum=E6FFF7&sideNums=E6FFF7&currStreakLabel=00D9A3&sideLabels=7A91A8&dates=52697A&hide_border=true&border_radius=5" alt="Total de contribuições e sequências" />
 
   <br />
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markzioio&bg_color=00000000&color=70A070&title_color=00FF41&line=00FF41&point=E8FFE8&area=true&area_color=003B00&hide_border=true&hide_title=true&grid=false&days=31&radius=0" alt="Atividade pública dos últimos 31 dias" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markzioio&bg_color=00000000&color=7A91A8&title_color=00D9A3&line=00D9A3&point=00AEEF&area=true&area_color=063C3A&hide_border=true&hide_title=true&grid=false&days=31&radius=5" alt="Atividade pública dos últimos 31 dias" />
 
 </div>
 
-Contribuições incluem atividades como commits, issues e pull requests. O conteúdo dos repositórios será a evidência real dos estudos.
+As métricas mostram contribuições públicas do GitHub. A validação do aprendizado estará no conteúdo e na qualidade dos repositórios publicados.
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:050816,35:00AEEF,65:00D9A3,100:050816" alt="Divisor tecnológico" />
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/marcos-martins-493a63257">
-    <img src="https://img.shields.io/badge/CONTATO-MARCOS%20LUIZ%20MARTINS-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="Contato pelo LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Luiz%20Martins-00AEEF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=081B2B" alt="Conectar com Marcos Luiz Martins no LinkedIn" />
   </a>
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/DEFENSIVE_MINDSET-VISIBLE_PROGRESS_%2F%2F_REAL_EVIDENCE-00FF41?style=flat-square&labelColor=000000" alt="Defensive mindset, visible progress, real evidence" />
+  <img src="https://img.shields.io/badge/DEFESA-OBSERVABILIDADE-00D9A3?style=flat-square&labelColor=081B2B" alt="Defesa e observabilidade" />
+  <img src="https://img.shields.io/badge/INVESTIGA%C3%87%C3%83O-EVID%C3%8ANCIA-7C6FF7?style=flat-square&labelColor=081B2B" alt="Investigação e evidência" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=55&section=footer&color=0:000000,50:003B00,100:000000&animation=blinking" alt="Rodapé hacker" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&section=footer&color=0:050816,40:081B2B,70:063C3A,100:050816&animation=fadeIn" alt="Rodapé tecnológico" />
