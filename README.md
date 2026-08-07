@@ -1,168 +1,132 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:030712,45:06283D,100:00F5A0&text=MARCOS%20LUIZ%20MARTINS&fontColor=E6FFF7&fontSize=42&fontAlignY=42&stroke=00F5A0&strokeWidth=1&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM%20JOURNEY&descAlignY=62&descSize=17&animation=fadeIn" alt="Banner de Marcos Luiz Martins" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:000000,50:001A00,100:000000&text=MARCOS%20LUIZ%20MARTINS&fontColor=00FF41&fontSize=39&fontFamily=Orbitron&fontAlignY=42&stroke=00FF41&strokeWidth=1&desc=CYBERSECURITY%20%2F%2F%20BLUE%20TEAM&descAlignY=65&descSize=16&animation=blinking" alt="Marcos Luiz Martins - Cybersecurity e Blue Team" />
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=00F5A0&center=true&vCenter=true&repeat=true&random=false&width=760&height=50&lines=%3E+Iniciando+minha+forma%C3%A7%C3%A3o+em+Ciberseguran%C3%A7a;%3E+Construindo+fundamentos+de+Blue+Team;%3E+Transformando+estudo+em+evid%C3%AAncia+p%C3%BAblica" alt="Apresentação animada" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%3E+Inicializando+forma%C3%A7%C3%A3o+defensiva...;%3E+Construindo+fundamentos+de+Blue+Team...;%3E+Aprender.+Praticar.+Documentar.+Evoluir." alt="Terminal animado" />
   </a>
 
   <br />
 
-  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00F5A0?style=for-the-badge&labelColor=050816" alt="Status: em formação" />
-  <img src="https://img.shields.io/badge/FOCO-BLUE%20TEAM-00E5FF?style=for-the-badge&labelColor=050816" alt="Foco: Blue Team" />
-  <img src="https://img.shields.io/badge/N%C3%8DVEL-INICIANTE-8B5CF6?style=for-the-badge&labelColor=050816" alt="Nível: iniciante" />
+  <sub><code>01001101 01000001 01010010 01000011 01001111 01010011</code></sub>
 
   <br /><br />
 
+  <img src="https://img.shields.io/badge/STATUS-EM%20FORMA%C3%87%C3%83O-00FF41?style=flat-square&labelColor=000000" alt="Em formação" />
+  <img src="https://img.shields.io/badge/FOCO-BLUE%20TEAM-00FF41?style=flat-square&labelColor=000000" alt="Foco em Blue Team" />
   <a href="https://www.linkedin.com/in/marcos-martins-493a63257">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-00FF41?style=flat-square&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=markzioio&label=ACESSOS%20AO%20PERFIL&color=00F5A0&style=for-the-badge&labelColor=050816&abbreviated=true" alt="Acessos ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=markzioio&label=ACESSOS&color=00FF41&style=flat-square&labelColor=000000" alt="Acessos ao perfil" />
 
 </div>
 
 <br />
 
-## `> whoami`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-```yaml
-nome: Marcos Luiz Martins
-momento: estudante no início da formação
-direção: Cibersegurança | Blue Team | Segurança Defensiva
-base_atual: construindo os fundamentos do zero
-objetivo: transformar cada etapa estudada em evidência pública
-```
+## `// IDENTIDADE`
 
-Estou ingressando em **Cibersegurança** com foco em **Blue Team**. Este perfil será meu registro técnico de longo prazo: um lugar para documentar estudos, práticas, laboratórios e projetos sem apresentar como domínio aquilo que ainda está em aprendizado.
+**Marcos Luiz Martins** — estudante no início da formação em **Cibersegurança**, com direção definida para **Blue Team e Segurança Defensiva**.
 
-Meu objetivo é desenvolver uma base consistente ao longo de **2 a 3 anos** e preparar um portfólio que demonstre evolução real, capacidade de investigação, organização e compromisso com segurança defensiva.
+Este GitHub será meu **currículo vivo**: cada conhecimento apresentado aqui deverá possuir uma evidência — anotação, laboratório, análise ou projeto. A jornada começa do zero e será construída com transparência durante os próximos **2 a 3 anos**.
 
-> **Princípio operacional:** primeiro aprender, depois praticar, então documentar — sempre com evidências.
+`APRENDER` → `PRATICAR` → `DOCUMENTAR` → `EVOLUIR`
 
 <br />
 
-## `> mission --active`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-Usar o GitHub como um **currículo vivo**. Cada repositório deverá responder a três perguntas com clareza:
+## `// PROTOCOLO ATUAL`
 
-- **O que foi estudado?** — conceitos, referências e anotações autorais.
-- **Como foi praticado?** — laboratórios, comandos, análises e simulações.
-- **Qual foi o resultado?** — relatório, aprendizado, correção e próxima etapa.
+Primeiro ciclo: **30 dias de introdução ao Blue Team** para construir vocabulário técnico, rotina de estudos e as primeiras evidências públicas. Não é uma formação completa — é o início dela.
 
-Aqui, quantidade não substitui profundidade. A construção será gradual, pública e verificável.
-
-<br />
-
-## `> learning_path --defensive`
-
-<sub>MAPA DE APRENDIZAGEM EM CONSTRUÇÃO — OS ITENS ABAIXO REPRESENTAM CONTEÚDOS PLANEJADOS, NÃO COMPETÊNCIAS JÁ DOMINADAS.</sub>
-
-### `01 // FUNDAMENTOS`
-
-Segurança da Informação • Blue Team e defesa em profundidade • Tríade CIA • Framework NIST • fundamentos de Linux • terminal • Git e GitHub • redes e modelo TCP/IP.
-
-### `02 // VISIBILIDADE & DETECÇÃO`
-
-Logs de sistemas • introdução a SIEM • análise de tráfego com Wireshark • IDS/IPS com Snort e Suricata • vulnerabilidades e CVEs • EDR • Threat Intelligence.
-
-### `03 // INVESTIGAÇÃO & RESPOSTA`
-
-Resposta a incidentes • análise básica de malware • forense digital • análise de memória com Volatility • Threat Hunting • MITRE ATT&CK • playbooks e runbooks.
-
-### `04 // HARDENING & OPERAÇÕES`
-
-Hardening de Linux e redes • segurança em nuvem • Zero Trust • análise de phishing e ransomware • governança • compliance • simulação de operações de SOC.
-
-<br />
-
-## `> initial_protocol --30-days`
-
-O primeiro ciclo será uma introdução estruturada de **30 dias**. Ele não representa uma formação completa: será o ponto de partida para criar vocabulário técnico, conhecer ferramentas defensivas e desenvolver uma rotina de documentação.
-
-<!-- PROGRESSO MANUAL: altere o número 0 na URL e o texto 0/30 quando concluir novos dias. -->
+<!-- PROGRESSO MANUAL: altere 0 na URL e o texto 0/30 quando concluir novos dias. -->
 <div align="center">
 
-  <strong>CICLO INICIAL // 0 DE 30 DIAS CONCLUÍDOS</strong>
+  <strong><code>BLUE_TEAM_INIT // 0 DE 30 DIAS</code></strong>
 
   <br /><br />
 
-  <img width="70%" src="https://geps.dev/progress/0" alt="Progresso do ciclo inicial: 0%" />
+  <img width="68%" src="https://geps.dev/progress/0" alt="Progresso do ciclo inicial: 0%" />
 
   <br /><br />
 
-  <code>SEMANA 01 · BASE</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SEMANA 02 · DETECÇÃO</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SEMANA 03 · RESPOSTA</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>SEMANA 04 · OPERAÇÕES</code>
+  <sub><code>BASE</code> ─── <code>DETECÇÃO</code> ─── <code>INVESTIGAÇÃO</code> ─── <code>DEFESA</code></sub>
 
 </div>
 
 <br />
 
-## `> long_term_route --2-to-3-years`
+## `// ROTA DE APRENDIZAGEM`
 
-**Agora — Fundamentos**  
-Criar base em segurança, sistemas, redes, Git e documentação técnica.
+`01` **Fundamentos** — Segurança da Informação, Tríade CIA, NIST, Linux, Git, redes e TCP/IP.  
+`02` **Detecção** — logs, SIEM, Wireshark, IDS/IPS, CVEs, EDR e Threat Intelligence.  
+`03` **Investigação** — resposta a incidentes, forense, malware, Volatility, MITRE ATT&CK e Threat Hunting.  
+`04` **Defesa** — hardening, cloud, Zero Trust, phishing, ransomware, governança e SOC simulado.
 
-**Próxima fase — Prática orientada**  
-Executar laboratórios guiados, analisar logs e tráfego, conhecer ferramentas e registrar resultados.
-
-**Consolidação — Projetos defensivos**  
-Produzir relatórios, regras de detecção, playbooks, investigações simuladas e projetos de SOC.
-
-**Preparação profissional — Portfólio e carreira**  
-Revisar lacunas, aprofundar especializações, avaliar certificações e buscar oportunidades iniciais na área.
+<sub>Depois do ciclo inicial: aprofundamento, laboratórios, projetos defensivos, portfólio e preparação profissional.</sub>
 
 <br />
 
-## `> evidence_repository`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
-À medida que a jornada avançar, este perfil reunirá:
+## `// REPOSITÓRIOS & EVIDÊNCIAS`
 
-- anotações técnicas objetivas e escritas com linguagem própria;
-- relatórios de laboratórios defensivos;
-- análises de logs, pacotes de rede e incidentes simulados;
-- configurações e regras de detecção criadas durante os estudos;
-- pequenos scripts de apoio e automação, quando fizerem parte do aprendizado;
-- projetos progressivos com contexto, metodologia, resultado e lições aprendidas.
+Aqui entrarão somente trabalhos realmente estudados e produzidos: relatórios, análises de logs, capturas de tráfego, regras de detecção, playbooks e projetos defensivos.
 
-Nenhuma ferramenta aparecerá aqui apenas como decoração. Tecnologias serão adicionadas ao perfil conforme forem **estudadas, praticadas e documentadas**.
+`[ AGUARDANDO O PRIMEIRO PROJETO PUBLICADO ]`
+
+<!--
+TEMPLATE PARA REPOSITÓRIOS FUTUROS
+
+### [`NOME DO PROJETO`](https://github.com/markzioio/NOME-DO-REPOSITORIO)
+Descrição curta: problema, prática realizada e resultado obtido.
+
+`STATUS: CONCLUÍDO` · `ÁREA: BLUE TEAM` · `EVIDÊNCIA: RELATÓRIO/LAB/PROJETO`
+
+---
+
+### [`SEGUNDO PROJETO`](https://github.com/markzioio/SEGUNDO-REPOSITORIO)
+Descrição curta e objetiva do projeto.
+-->
 
 <br />
 
-## `> public_telemetry --live`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
+
+## `// TELEMETRIA PÚBLICA`
 
 <div align="center">
 
-  <sub>PAINÉIS AUTOMÁTICOS BASEADOS NAS CONTRIBUIÇÕES PÚBLICAS DO GITHUB</sub>
+  <sub>ATUALIZAÇÃO AUTOMÁTICA A PARTIR DAS CONTRIBUIÇÕES PÚBLICAS</sub>
 
   <br /><br />
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=markzioio&locale=pt_BR&mode=daily&background=050816&border=00F5A0&stroke=19324A&ring=00F5A0&fire=00E5FF&currStreakNum=E6FFF7&sideNums=E6FFF7&currStreakLabel=00F5A0&sideLabels=8BA3B8&dates=607B8F&hide_border=true&border_radius=0" alt="Total de contribuições, sequência atual e maior sequência" />
+  <img width="68%" src="https://streak-stats.demolab.com?user=markzioio&locale=pt_BR&mode=daily&background=000000&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=70A070&dates=417941&hide_border=true&border_radius=0" alt="Total de contribuições e sequências" />
 
   <br />
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markzioio&theme=dark&bg_color=00000000&border_color=00000000&title_color=00F5A0&text_color=E6FFF7&icon_color=00E5FF&chart_color=00F5A0&animation=sequence&duration=3" alt="Resumo automático das contribuições de Marcos" />
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markzioio&bg_color=00000000&color=8BA3B8&title_color=00F5A0&line=00F5A0&point=00E5FF&area=true&area_color=00F5A0&hide_border=true&hide_title=true&grid=false&days=31&radius=0" alt="Atividade pública dos últimos 31 dias" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=markzioio&bg_color=00000000&color=70A070&title_color=00FF41&line=00FF41&point=E8FFE8&area=true&area_color=003B00&hide_border=true&hide_title=true&grid=false&days=31&radius=0" alt="Atividade pública dos últimos 31 dias" />
 
 </div>
 
-> As métricas acima contabilizam contribuições públicas do GitHub — como commits, issues e pull requests. Elas mostram consistência na plataforma, mas não substituem os registros e as evidências dos estudos.
+<sub>Contribuições incluem atividades como commits, issues e pull requests. O conteúdo dos repositórios será a evidência real dos estudos.</sub>
 
 <br />
 
-## `> connection_request`
-
-Estou construindo minha formação com transparência e aberto a acompanhar profissionais, comunidades e projetos brasileiros de Cibersegurança.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:001A00,50:00FF41,100:001A00" alt="Linha neon" />
 
 <div align="center">
 
   <a href="https://www.linkedin.com/in/marcos-martins-493a63257">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Luiz%20Martins-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" alt="Conectar com Marcos Luiz Martins no LinkedIn" />
+    <img src="https://img.shields.io/badge/CONTATO-MARCOS%20LUIZ%20MARTINS-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000" alt="Contato pelo LinkedIn" />
   </a>
 
   <br /><br />
 
-  <code>DEFESA • OBSERVABILIDADE • INVESTIGAÇÃO • EVOLUÇÃO CONTÍNUA</code>
+  <code>DEFENSIVE MINDSET // VISIBLE PROGRESS // REAL EVIDENCE</code>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&reversal=true&color=0:030712,45:06283D,100:00F5A0&animation=twinkling" alt="Rodapé cyberpunk" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=55&section=footer&color=0:000000,50:003B00,100:000000&animation=blinking" alt="Rodapé hacker" />
