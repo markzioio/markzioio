@@ -2,65 +2,87 @@
 
 # MARCOS LUIZ MARTINS
 
-### TECHNOLOGY STUDENT · PRACTICAL BUILDER
+### ESTUDANTE DE TECNOLOGIA · CONSTRUINDO NA PRÁTICA
 
-Building hands-on experience across systems, programming, automation, cloud and security.
+`LINUX` · `PYTHON` · `AUTOMAÇÃO` · `CLOUD` · `SEGURANÇA`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-martins-493a63257)
-[![GitHub](https://img.shields.io/badge/GitHub-markzioio-181717?style=for-the-badge&logo=github)](https://github.com/markzioio)
+Construindo experiência real por meio de projetos, documentação e prática constante.
 
-</div>
-
-## About me
-
-I am a technology student building real experience one project at a time. I learn best by doing: testing ideas, understanding failures, documenting what worked and turning fundamentals into practical results.
-
-My current focus is developing a solid technical base that can support long-term growth in cloud and security.
-
-## Currently studying
-
-- Linux and operating-system fundamentals
-- Networking fundamentals
-- Git and GitHub
-- Python and Bash
-- Automation fundamentals
-- Cloud fundamentals
-
-## Tools and technologies
-
-### CURRENT / EVIDENCED
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode&theme=dark" alt="Current tools: Linux, Git, GitHub, Bash and VS Code" />
-</p>
-
-### LEARNING / NEXT
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,windows,powershell,azure,docker,terraform&theme=dark" alt="Learning path: Python, Windows, PowerShell, Azure, Docker and Terraform" />
-</p>
-
-> The second group is a learning path, not a claim of professional mastery.
-
-## Featured projects
-
-| Project | Description | Status |
-|---|---|---|
-| **PROJECT 18** | Long-term learning repository documenting my practical evolution from IT fundamentals toward cloud and security. | In progress |
-| **Next practical project** | Reserved for a project backed by code, tests, documentation and evidence. | Planned |
-
-## GitHub activity
-
-<div align="center">
-
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=markzioio&show_icons=true&hide_border=true&theme=transparent&title_color=00d9ff&icon_color=00f5d4&text_color=94a3b8)
-
-![Marcos's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=markzioio&bg_color=00000000&color=94a3b8&line=00d9ff&point=00f5d4&area=true&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-martins-493a63257)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markzioio)
 
 </div>
 
-## Contact
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de tecnologia e desenvolvo experiência real, um projeto por vez. Aprendo melhor fazendo: testo ideias, entendo falhas, documento soluções e transformo fundamentos em resultados práticos.
+
+Meu foco atual é construir uma base técnica sólida em sistemas, programação e automação, preparando minha evolução para computação em nuvem e segurança.
+
+## 🎯 Estudando atualmente
+
+- Fundamentos de Linux e sistemas operacionais
+- Redes de computadores
+- Git e GitHub
+- Python e Bash
+- Fundamentos de automação
+- Fundamentos de computação em nuvem
+
+## 🧰 Ferramentas e tecnologias
+
+### Experiência atual
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode&theme=dark" alt="Linux, Git, GitHub, Bash e VS Code" />
+</p>
+
+### Em aprendizado e próximos passos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,windows,powershell,azure,docker,terraform&theme=dark" alt="Python, Windows, PowerShell, Azure, Docker e Terraform" />
+</p>
+
+> Essas tecnologias representam minha trilha de aprendizado, não uma declaração de domínio profissional.
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Situação |
+| :--- | :--- | :---: |
+| **[PROJECT 18](https://github.com/markzioio/project18-labs)** | Jornada prática de longo prazo, documentando minha evolução dos fundamentos de TI até cloud e segurança. | 🟢 Em andamento |
+| **Próximo projeto prático** | Espaço reservado para um projeto com código, testes, documentação e evidências reais. | ⚪ Planejado |
+
+## 📌 Minha forma de aprender
+
+```text
+ESTUDAR → PRATICAR → ERRAR → CORRIGIR → DOCUMENTAR → EVOLUIR
+```
+
+- Prática antes de aparência
+- Evidências antes de afirmações
+- Consistência antes de velocidade
+- Fundamentos antes de atalhos
+
+## 📊 Atividade no GitHub
+
+Minha atividade, contribuições e evolução podem ser acompanhadas diretamente na aba de contribuições do meu perfil e nos históricos dos projetos.
+
+[![Ver contribuições](https://img.shields.io/badge/VER_MINHAS_CONTRIBUIÇÕES-00D9FF?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/markzioio?tab=overview&from=2026-01-01&to=2026-12-31)
+[![PROJECT 18](https://img.shields.io/badge/ACOMPANHAR_PROJECT_18-00F5D4?style=for-the-badge&logo=gitbook&logoColor=0B0F14)](https://github.com/markzioio/project18-labs)
+
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/marcos-martins-493a63257)
 - [GitHub](https://github.com/markzioio)
-- Portfolio: coming with real projects
+- Portfólio em construção, com projetos reais e documentados
+
+---
+
+<div align="center">
+
+### Constância transforma estudo em experiência.
+
+`APRENDENDO` · `CONSTRUINDO` · `DOCUMENTANDO`
+
+</div>
