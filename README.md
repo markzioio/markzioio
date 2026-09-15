@@ -1,88 +1,90 @@
 <div align="center">
 
-# MARCOS LUIZ MARTINS
+# Marcos Luiz Martins
 
-### ESTUDANTE DE TECNOLOGIA · CONSTRUINDO NA PRÁTICA
+### Estudante de tecnologia construindo uma base sólida em infraestrutura, automação e segurança
 
-`LINUX` · `PYTHON` · `AUTOMAÇÃO` · `CLOUD` · `SEGURANÇA`
+São Paulo, Brasil · Aprendizado prático · Documentação orientada a evidências
 
-Construindo experiência real por meio de projetos, documentação e prática constante.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-martins-493a63257)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markzioio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Martins-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-martins-493a63257)
+[![GitHub](https://img.shields.io/badge/GitHub-markzioio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/markzioio)
 
 </div>
 
----
+## Sobre mim
 
-## 👨‍💻 Sobre mim
+Estou desenvolvendo minha carreira em tecnologia com foco inicial em **Linux, redes, Git, Python e automação**. Minha direção de longo prazo é atuar com **infraestrutura, identidade e acesso (IAM), cloud e segurança**.
 
-Sou estudante de tecnologia e desenvolvo experiência real, um projeto por vez. Aprendo melhor fazendo: testo ideias, entendo falhas, documento soluções e transformo fundamentos em resultados práticos.
+Meu trabalho segue uma regra simples: uma tecnologia só aparece como competência comprovada quando existe código, documentação, teste ou laboratório reproduzível que a sustente.
 
-Meu foco atual é construir uma base técnica sólida em sistemas, programação e automação, preparando minha evolução para computação em nuvem e segurança.
+## Foco atual
 
-## 🎯 Estudando atualmente
+| Agora | Método | Objetivo profissional |
+|---|---|---|
+| Linux: terminal e sistema de arquivos | Estudar → praticar → verificar → documentar | Construir experiência para oportunidades de suporte, infraestrutura e cloud support |
 
-- Fundamentos de Linux e sistemas operacionais
-- Redes de computadores
-- Git e GitHub
-- Python e Bash
-- Fundamentos de automação
-- Fundamentos de computação em nuvem
-
-## 🧰 Ferramentas e tecnologias
-
-### Experiência atual
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode&theme=dark" alt="Linux, Git, GitHub, Bash e VS Code" />
-</p>
-
-### Em aprendizado e próximos passos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,windows,powershell,azure,docker,terraform&theme=dark" alt="Python, Windows, PowerShell, Azure, Docker e Terraform" />
-</p>
-
-> Essas tecnologias representam minha trilha de aprendizado, não uma declaração de domínio profissional.
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Situação |
-| :--- | :--- | :---: |
-| **[PROJECT 18](https://github.com/markzioio/project18-labs)** | Jornada prática de longo prazo, documentando minha evolução dos fundamentos de TI até cloud e segurança. | 🟢 Em andamento |
-| **Próximo projeto prático** | Espaço reservado para um projeto com código, testes, documentação e evidências reais. | ⚪ Planejado |
-
-## 📌 Minha forma de aprender
+Sigo um roadmap de **840 dias**, de setembro de 2026 a dezembro de 2028, com uma hora diária de prática e checkpoints semanais.
 
 ```text
-ESTUDAR → PRATICAR → ERRAR → CORRIGIR → DOCUMENTAR → EVOLUIR
+Fundamentos → Windows e AD → Segurança → Cloud e IAM → Azure
+→ IAM profissional → Cloud Security → DevSecOps e AI Security → Portfólio e emprego
 ```
 
-- Prática antes de aparência
-- Evidências antes de afirmações
-- Consistência antes de velocidade
-- Fundamentos antes de atalhos
+## Tecnologias
 
-## 📊 Atividade no GitHub
+### Em uso e estudo atual
 
-Minha atividade, contribuições e evolução podem ser acompanhadas diretamente na aba de contribuições do meu perfil e nos históricos dos projetos.
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,python,vscode&theme=dark" alt="Linux, Git, GitHub, Bash, Python e VS Code" />
+</p>
 
-[![Ver contribuições](https://img.shields.io/badge/VER_MINHAS_CONTRIBUIÇÕES-00D9FF?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/markzioio?tab=overview&from=2026-01-01&to=2026-12-31)
-[![PROJECT 18](https://img.shields.io/badge/ACOMPANHAR_PROJECT_18-00F5D4?style=for-the-badge&logo=gitbook&logoColor=0B0F14)](https://github.com/markzioio/project18-labs)
+### Na trilha de desenvolvimento
 
-## 📫 Contato
+`Redes` · `Windows` · `PowerShell` · `Active Directory` · `Microsoft Entra ID` · `Azure` · `Terraform` · `Docker` · `GitHub Actions` · `Cloud Security` · `AppSec` · `AI Security`
+
+> Os itens da trilha indicam direção de estudo, não domínio profissional ou certificação.
+
+## Projetos e evidências
+
+### [tech-labs](https://github.com/markzioio/tech-labs)
+
+Repositório público de laboratórios, scripts, runbooks e projetos reproduzíveis. Ele começa pelos fundamentos e cresce somente quando há evidência técnica útil.
+
+### PROJECT 18 — workspace privado
+
+Ambiente privado que registra a jornada diária. Inclui uma automação local em Python com testes, deduplicação de eventos, geração de documentação e verificação de segredos antes de commits.
+
+### Projetos planejados no roadmap
+
+| Etapa | Entrega |
+|---|---|
+| Fundamentos | Network Diagnostics Toolkit |
+| Windows e AD | Corporate IT Lab |
+| Segurança | Security Audit Toolkit |
+| IAM | IAM Lab e IAM Automation Portfolio |
+| Azure | Secure Azure Architecture |
+| Cloud Security | Secure Cloud Platform |
+| AI Security | AI Security Lab |
+| Encerramento | Capstone híbrido/cloud de 2028 |
+
+Projetos planejados serão promovidos para destaque apenas depois de funcionarem, terem documentação clara e poderem ser reproduzidos sem dados sensíveis.
+
+## Como trabalho
+
+- **Evidência antes de afirmação:** código, saída verificada, diagrama ou nota técnica.
+- **Segurança desde o início:** segredos e dados pessoais não entram no histórico Git.
+- **Documentação útil:** cada projeto deve explicar problema, decisões, execução e limitações.
+- **Progresso sustentável:** fundamentos antes de ferramentas avançadas; qualidade antes de volume.
+
+## Contato
+
+Estou aberto a conexões profissionais, troca de conhecimento e oportunidades compatíveis com meu nível atual.
 
 - [LinkedIn](https://www.linkedin.com/in/marcos-martins-493a63257)
-- [GitHub](https://github.com/markzioio)
-- Portfólio em construção, com projetos reais e documentados
-
----
+- [Projetos públicos](https://github.com/markzioio?tab=repositories)
 
 <div align="center">
 
-### Constância transforma estudo em experiência.
-
-`APRENDENDO` · `CONSTRUINDO` · `DOCUMENTANDO`
+<sub>Construindo em público, sem transformar planos futuros em experiência presente.</sub>
 
 </div>
