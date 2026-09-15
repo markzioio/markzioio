@@ -1,0 +1,35 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Roadmap profissional 2026 a 2028</title>
+  <desc id="desc">Nove fases do roadmap com fundamentos destacados como fase atual</desc>
+  <defs>
+    <linearGradient id="line" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".45" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="230" rx="22" fill="#0B1220"/>
+  <text x="60" y="44" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">ROADMAP PROFISSIONAL</text>
+  <text x="1140" y="44" text-anchor="end" fill="#64748B" font-family="ui-monospace,Consolas,monospace" font-size="14">120 SEMANAS</text>
+  <path d="M90 112H1110" stroke="#1E293B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 112H1110" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 13">
+    <animate attributeName="stroke-dashoffset" values="62;0" dur="2.6s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" text-anchor="middle">
+    <g transform="translate(90 112)"><circle r="18" fill="#22D3EE" opacity=".18" filter="url(#glow)"><animate attributeName="r" values="18;28;18" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;.08;.35" dur="2s" repeatCount="indefinite"/></circle><circle r="9" fill="#22D3EE"/><text y="42" fill="#67E8F9" font-weight="700">FUNDAMENTOS</text><text y="59" fill="#64748B">AGORA</text></g>
+    <g transform="translate(218 112)"><circle r="7" fill="#334155" stroke="#22D3EE"/><text y="42" fill="#CBD5E1">WINDOWS / AD</text></g>
+    <g transform="translate(345 112)"><circle r="7" fill="#334155" stroke="#2DD4BF"/><text y="42" fill="#CBD5E1">SEGURANÇA</text></g>
+    <g transform="translate(473 112)"><circle r="7" fill="#334155" stroke="#2DD4BF"/><text y="42" fill="#CBD5E1">CLOUD / IAM</text></g>
+    <g transform="translate(600 112)"><circle r="7" fill="#334155" stroke="#14B8A6"/><text y="42" fill="#CBD5E1">AZURE</text></g>
+    <g transform="translate(728 112)"><circle r="7" fill="#334155" stroke="#5EEAD4"/><text y="42" fill="#CBD5E1">IAM PRO</text></g>
+    <g transform="translate(855 112)"><circle r="7" fill="#334155" stroke="#818CF8"/><text y="42" fill="#CBD5E1">CLOUD SEC</text></g>
+    <g transform="translate(983 112)"><circle r="7" fill="#334155" stroke="#A78BFA"/><text y="42" fill="#CBD5E1">DEV / AI SEC</text></g>
+    <g transform="translate(1110 112)"><circle r="7" fill="#8B5CF6"/><text y="42" fill="#C4B5FD">PORTFÓLIO</text></g>
+  </g>
+  <text x="60" y="207" fill="#64748B" font-family="ui-monospace,Consolas,monospace" font-size="13">2026</text>
+  <text x="1140" y="207" text-anchor="end" fill="#64748B" font-family="ui-monospace,Consolas,monospace" font-size="13">2028</text>
+</svg>
